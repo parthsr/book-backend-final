@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "parth",
+    "password": "root",
+    "database": "books",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+
+  },
+  "test": {
+    "username": "parth",
+    "password": "root",
+    "database": "books_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "parth",
+    "password": "root",
+    "database": "books_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
